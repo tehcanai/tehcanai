@@ -2,3 +2,5 @@ Mostly a Javascript/Typescript Developer but I play around with other stuff some
 
 Stuff I know: JS/TS, Flutter, Laravel, React, NextJS.
 
+My commits are empty cause I push to gitlab at work :).
+
