@@ -1,3 +1,2 @@
-I build mobile and web products. You can email me at arif.zakuan@gmail.com.
-
+I'm Arif Zakuan. Mostly a Javascript Developer but I play around with other stuff sometimes.
 
