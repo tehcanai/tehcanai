@@ -2,7 +2,7 @@ Mostly a Javascript/Typescript Developer but I play around with other stuff some
 
 Stuff I know: JS/TS, Flutter, Laravel, React, NextJS.
 
-Looking for opportunities: anything other than client-side web.
+Looking for opportunities!
 
 My commits are empty cause I push to gitlab at work :).
 
