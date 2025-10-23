@@ -4,5 +4,3 @@ Stuff I know: JS/TS, Flutter, Laravel, React, NextJS.
 
 Looking for opportunities!
 
-My commits are empty cause I push to gitlab at work :).
-
